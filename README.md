@@ -1,2 +1,3 @@
 # receitaBoloCenoura
-Receita Bolo de Cenoura. Modulo 2 Curso DH
+Receita Bolo de Cenoura. 
+Modulo 2 Curso DH - html
